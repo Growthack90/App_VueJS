@@ -22,5 +22,6 @@ import Form from './Form.vue'
   color: green;
   padding: 40px;
   text-align: center;
+  border: 5px solid black;
   }
 </style>

@@ -11,8 +11,4 @@
 </script>
 
 <style scoped>
-h2 {
-  color: blue;
-  text-align: center;
-}
 </style>
