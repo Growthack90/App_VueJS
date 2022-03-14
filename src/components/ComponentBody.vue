@@ -1,14 +1,18 @@
 <template>
   <div id="component-body">
-
 <h2>Body</h2>
-
+<Form />
   </div>
 </template>
 
 <script>
+import Form from './Form.vue'
+
   export default {
     name: 'component-body',
+    components: {
+      Form,
+    }
   }
 </script>
 
