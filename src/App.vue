@@ -1,6 +1,6 @@
 <template>
-  <div id="app" class="small-container">
-    <!-- other code HTML if you want -->
+  <div id="app">
+    <h1>App Vue</h1>
 <ComponentHeader />    
 <ComponentBody />
 <ComponentFooter /> 
